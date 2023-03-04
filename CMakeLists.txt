@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(GregoryPomeroy_PROG2007_Assignment2_Part1_LandscapeCalc)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(GregoryPomeroy_PROG2007_Assignment2_Part1_LandscapeCalc main.cpp)
